@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "Hey Geralt",
   "author": "JaffyCaledonia",
-  "website": "",
+  "website": "https://github.com/ljaffy",
   "model": "hey_geralt.tflite",
   "trained_languages": ["en"],
   "version": 2,
