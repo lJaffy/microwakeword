@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "Oh Carson",
   "author": "JaffyCaledonia",
-  "website": "",
+  "website": "https://github.com/ljaffy",
   "model": "oh_carson.tflite",
   "trained_languages": ["en"],
   "version": 2,
@@ -11,6 +11,6 @@
     "feature_step_size": 10,
     "sliding_window_size": 5,
     "tensor_arena_size": 22860,
-    "minimum_esphome_version": "2025.12.0"
+    "minimum_esphome_version": "2024.7.0"
   }
 }
